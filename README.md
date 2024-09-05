@@ -72,4 +72,4 @@ The Weather App is a comprehensive tool that provides accurate weather informati
 ## Setup Instructions
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/weather.git
+   git clone https://github.com//sandhy3011//weather.git
